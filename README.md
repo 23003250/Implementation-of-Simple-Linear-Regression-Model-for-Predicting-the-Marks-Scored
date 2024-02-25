@@ -64,31 +64,31 @@ print("RMSE = ",rmse)
 ## Output:
 
 ### df.head()
-![df_head()](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/0b7d642e-7301-4319-aafd-a9a4f648b04b)
+![head](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/3c5080ef-6535-4d88-b010-c67bd2998b72)
 
 ### df.tail()
-![df tail()](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/68fdaf4f-3368-4779-ac98-6541956060f6)
+![tail](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/e9decb0a-b79b-4441-9faf-f15443e3541d)
 
 ### Array value of X
-![array value](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/5a783fe9-924d-48b4-8d15-b636ba4135d1)
+![array_value](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/918413cc-f7c6-486c-a72e-2f3d4c83c179)
 
 ### Array value of Y
-![array value of y](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/998a4174-131b-498b-a882-fcd39a015aa3)
+![array y](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/9ee52757-9cc1-4093-b01a-925d69375611)
 
 ### Values of y prediction
-![value of y prediction](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/d22c7fe9-036e-45c0-86cc-b07a64b06996)
+![y prediction](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/3ac730f0-6054-4fc7-92dc-7a7c4b3a52b8)
 
 ### Array values of Y test
-![array values of y test](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/fbe00f6c-0a90-459f-8982-4e5b7e979fdb)
+![array value of y test](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/4152c892-4edc-4c2f-ba6a-a0450563fbd2)
 
 ### Training set graph
-![training set graph](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/688388ba-4567-424c-b641-c7296f4697f2)
+![training set graph](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/7af539a4-ffe7-4ed8-897c-61cff9425abb)
 
 ### Test set graph
-![test set graph 1](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/548f2c41-76fa-4032-902d-4bf7b0093366)
+![test set graph](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/9e34602b-4b76-4422-bcee-850c2d055d87)
 
 ### Values of MSE,MAE and RMSE
-![values of mse,mae and rmse](https://github.com/rohithprem18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/146315115/5de3982e-704d-4750-9802-e398748bf131)
+![values of mse,mae and rmse](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/b2d203af-4572-4f37-a6c9-0fe8dd0ca86c)
 
 
 ## Result:
