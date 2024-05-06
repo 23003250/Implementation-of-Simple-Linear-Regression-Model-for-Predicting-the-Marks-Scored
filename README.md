@@ -96,7 +96,7 @@ print("RMSE = ",rmse)
 
 ### Training set graph
 ![training set graph](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/7af539a4-ffe7-4ed8-897c-61cff9425abb)
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 
