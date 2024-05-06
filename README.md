@@ -79,6 +79,11 @@ print("RMSE = ",rmse)
 
 ### Array value of X
 ![array_value](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/918413cc-f7c6-486c-a72e-2f3d4c83c179)
+<br><br><br><br>
+
+
+
+
 
 ### Array value of Y
 ![array y](https://github.com/23003250/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331462/9ee52757-9cc1-4093-b01a-925d69375611)
